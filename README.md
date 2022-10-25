@@ -1,0 +1,2 @@
+# sanke-game_usin-python
+THIS GAME IS MAKE BY JP-DEVLOPER USING PYTHON
